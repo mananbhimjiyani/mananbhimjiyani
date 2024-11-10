@@ -37,7 +37,4 @@ B.Tech in Computer Science Engineering at SIT - Symbiosis Institute of Technolog
 - Email: mananbhimjiyani@gmail.com
 - Phone: +91 9726297264
 
-## 🌱 I'm currently learning
-[![roadmap.sh](https://roadmap.sh/card/tall/66e5bdf2f34c8868ec3e0006?variant=dark&roadmaps=datastructures-and-algorithms)](https://roadmap.sh)
-
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
