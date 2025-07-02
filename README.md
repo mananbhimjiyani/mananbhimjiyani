@@ -1,40 +1,66 @@
-# Hi, I'm Manan Bhimjiyani 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manan-bhimjiyani) [![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/your-orcid-id)
 
-🚀 **About Me**  
-I'm a final-year B.Tech student in Computer Science and Engineering at Symbiosis Institute of Technology (SIT), passionate about building scalable cloud backend systems and integrating AI solutions. With a focus on DevOps and data-driven applications, I thrive in collaborative teams, powering projects like real-time flight predictors and NLP-based resume analyzers. Currently exploring data science through an elective, I love tackling real-world challenges with code and innovation.
+# 👋 Hi there, I'm Manan Bhimjiyani
 
-🛠️ **Skills**  
-- **Programming Languages**: Python, JavaScript  
-- **Backend**: Django, FastAPI, Flask  
-- **Cloud & DevOps**: AWS, Docker, Terraform, GitHub Actions (CI/CD)  
-- **AI & Data Science**: Machine Learning, Scikit-learn, LSTM, NLP  
-- **Databases**: MongoDB, Firebase, MySQL  
-- **Tools**: Git, Supabase, Replit  
+> **Final-Year B.Tech CSE @ Symbiosis Institute of Technology**  
+> 🏆 Hackathon Winner (IIT Bombay & IIIT Pune) | 💻 Cloud, DevOps & Backend Specialist | ⚙️ FastAPI · Docker · Terraform · LLMs
 
-🏆 **Achievements**  
-- **1st Place**, Socio-Hackathon, IIT Bombay (Jan 2024)  
-- **Champions**, 36-Hour Nexus Hackathon, IIIT Pune (Oct 2023)  
+---
 
-🔭 **Current Roles**  
-- **Flutter Lead**, GDSC SIT Pune  
-- **Webmaster**, SIT ACM Student Chapter  
-- **Web 3.0 Co-Head**, Cyber Blockchain Club  
+## 🚀 About Me
 
-🌟 **Notable Projects**  
-- **AeroSync**: Real-time flight delay predictor using Django, WebSockets, and ML models, with an LLM-based chatbot for user insights.  
-- **QuickCV**: NLP-based resume scoring app deployed on AWS with FastAPI, Docker, and Terraform. Used by 100+ users.  
-- **Sintex**: Stock and forex predictor combining LSTM and NLP sentiment analysis. *Winner, Nexus Hackathon 2023*.  
-- **NayayaTech**: LLM-based legal chatbot built with FastAPI, React, and Gemini 2.5 Flash for a hackathon.  
-- **GDSC Club App**: Firebase-based mobile app for event management and announcements, built with Flutter.  
+I'm a final-year Computer Science student passionate about building **robust backend systems**, managing **cloud infrastructure**, and integrating **AI models** into real-world applications. I specialize in DevOps workflows, scalable APIs, and automation pipelines that power impactful software.
 
-📚 **Education**  
-- **B.Tech, Computer Science Engineering**, SIT - Symbiosis Institute of Technology (2022–2026)  
-- *Elective*: Data Science  
+While I work primarily on **cloud + backend**, I thrive in cross-functional teams alongside frontend and ML specialists.
 
-📫 **Connect with Me**  
-- **Email**: mananbhimjiyani@gmail.com  
-- **Phone**: +91 9726297264  
-- **LinkedIn**: [manan-bhimjiyani](https://www.linkedin.com/in/manan-bhimjiyani)  
+---
 
-Explore my repositories and reach out for collaborations or tech discussions! Let's build something impactful together! 🚀
+## 🛠️ Skills
+
+**Languages**: Python, JavaScript, Bash  
+**Backend**: FastAPI, Django, Flask, Express.js  
+**DevOps & Cloud**: AWS, Docker, GitHub Actions, Terraform  
+**Databases**: PostgreSQL, MongoDB, Firebase, Supabase  
+**AI/ML**: Scikit-Learn, LSTM, LangChain, Gemini LLM  
+**Tools**: Git, VSCode, Postman, Replit
+
+---
+
+## 🧠 Current Focus
+
+- **Studying Data Science & ML** (Applied + Project-based)
+- **Exploring LLM integration** with Gemini 2.5 Flash
+- **Improving CloudOps**: CI/CD, containerization, infrastructure-as-code
+
+---
+
+## 🏆 Hackathon Achievements
+
+- **🏅 1st Place** – Socio-Hackathon @ IIT Bombay *(Breast Cancer Detection Project)*
+- **🥇 Winner** – Nexus Hackathon @ IIIT Pune *(Sintex Stock & Forex Predictor)*
+
+---
+
+## 🔍 Notable Projects
+
+- **AeroSync** – Real-time flight delay predictor using ML + WebSocket + LLMs  
+- **QuickCV** – NLP-based Resume Analyzer deployed on AWS with CI/CD  
+- **NayayaTech** – Legal Helper Chatbot fine-tuned on Gemini 2.5 Flash  
+- **CloudSim Plus Scheduler** – VM resource allocator reducing latency by 23%  
+- **ScamSentry Extension** – AI-based phishing detection Chrome extension
+
+> *More on GitHub → [@mananbhimjiyani](https://github.com/mananbhimjiyani)*
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering**  
+_Symbiosis Institute of Technology, Pune_ (2022–2026)
+
+---
+
+## 📬 Let's Connect
+
+📧 Email: [mananbhimjiyani@gmail.com](mailto:mananbhimjiyani@gmail.com)  
+📱 Phone: +91 97262 97264  
+🔗 LinkedIn: [linkedin.com/in/mananbhimjiyani](https://www.linkedin.com/in/mananbhimjiyani/)
