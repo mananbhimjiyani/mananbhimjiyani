@@ -1,40 +1,40 @@
-# Hi there, I'm Manan Bhimjiyani 👋
+# Hi, I'm Manan Bhimjiyani 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manan-bhimjiyani) [![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/your-orcid-id)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mananbhimjiyani)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1365--1554-green)](https://orcid.org/0009-0008-1365-1554)
+🚀 **About Me**  
+I'm a final-year B.Tech student in Computer Science and Engineering at Symbiosis Institute of Technology (SIT), passionate about building scalable cloud backend systems and integrating AI solutions. With a focus on DevOps and data-driven applications, I thrive in collaborative teams, powering projects like real-time flight predictors and NLP-based resume analyzers. Currently exploring data science through an elective, I love tackling real-world challenges with code and innovation.
 
-## 🚀 About Me
-I'm a B.Tech student specializing in full-stack web and mobile application development. My focus is on building scalable and user-friendly systems, with experience in IoT, AI-driven systems, and flight information systems.
+🛠️ **Skills**  
+- **Programming Languages**: Python, JavaScript  
+- **Backend**: Django, FastAPI, Flask  
+- **Cloud & DevOps**: AWS, Docker, Terraform, GitHub Actions (CI/CD)  
+- **AI & Data Science**: Machine Learning, Scikit-learn, LSTM, NLP  
+- **Databases**: MongoDB, Firebase, MySQL  
+- **Tools**: Git, Supabase, Replit  
 
-## 🛠️ Skills
-- **Programming Languages:** JavaScript, Dart, Python
-- **Frontend:** React.js, Flutter
-- **Backend:** Django, Flask, Express.js
-- **Databases:** MySQL, Supabase, Firebase
-- **Technologies:** IoT, Blockchain, Web 3.0, Agile Methodology
-- **Tools:** Git, Firebase, Supabase, Replit
+🏆 **Achievements**  
+- **1st Place**, Socio-Hackathon, IIT Bombay (Jan 2024)  
+- **Champions**, 36-Hour Nexus Hackathon, IIIT Pune (Oct 2023)  
 
-## 🏆 Achievements
-- 1st Place, Socio-Hackathon IIT Bombay (Jan 2024)
-- Champions, 36-Hour Nexus Hackathon (Oct 2023)
+🔭 **Current Roles**  
+- **Flutter Lead**, GDSC SIT Pune  
+- **Webmaster**, SIT ACM Student Chapter  
+- **Web 3.0 Co-Head**, Cyber Blockchain Club  
 
-## 🔭 Current Roles
-- Flutter Lead at GDSC SIT Pune
-- Webmaster at SIT ACM Student Chapter
-- Web 3.0 Co-Head at Cyber Blockchain Club
+🌟 **Notable Projects**  
+- **AeroSync**: Real-time flight delay predictor using Django, WebSockets, and ML models, with an LLM-based chatbot for user insights.  
+- **QuickCV**: NLP-based resume scoring app deployed on AWS with FastAPI, Docker, and Terraform. Used by 100+ users.  
+- **Sintex**: Stock and forex predictor combining LSTM and NLP sentiment analysis. *Winner, Nexus Hackathon 2023*.  
+- **NayayaTech**: LLM-based legal chatbot built with FastAPI, React, and Gemini 2.5 Flash for a hackathon.  
+- **GDSC Club App**: Firebase-based mobile app for event management and announcements, built with Flutter.  
 
-## 🌟 Notable Projects
-- IoT-Arduino Surveillance System
-- Sintex: Forex and Nifty 50 Stock Price Predictor
-- AeroSync: Flight Information System
-- GDSC Club App
-- NayayaTech: LLM-based Legal Helper Chatbot
+📚 **Education**  
+- **B.Tech, Computer Science Engineering**, SIT - Symbiosis Institute of Technology (2022–2026)  
+- *Elective*: Data Science  
 
-## 📚 Education
-B.Tech in Computer Science Engineering at SIT - Symbiosis Institute of Technology (2022 - 2026)
+📫 **Connect with Me**  
+- **Email**: mananbhimjiyani@gmail.com  
+- **Phone**: +91 9726297264  
+- **LinkedIn**: [manan-bhimjiyani](https://www.linkedin.com/in/manan-bhimjiyani)  
 
-## 📫 How to reach me
-- Email: mananbhimjiyani@gmail.com
-- Phone: +91 9726297264
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
+Explore my repositories and reach out for collaborations or tech discussions! Let's build something impactful together! 🚀
